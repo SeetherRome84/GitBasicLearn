@@ -1,0 +1,22 @@
+
+version control system to solve :
+versiong , team, tracking , issues 
+
+                                git init    create project   > create repo 
+                                git add + file name   OR .   TO GET ALL 
+                                git commit-m "your message"             to take a copy 
+                                git push  to take all you doing and push it to github  server
+                                git pull"   : to get the file that is created in the github into laptop   "get from github"   changes  
+github means   "online server" 
+
+                             git log    git inti ,  git add README.md ,, git branch , git remote add ,    push to github   git push -u
+
+write in terminal "git pull"   : to get the file that is created in the github into laptop   "get from github"
+
+config : 
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+git config --global user.name "SeetherRome84"
+git config --global user.email seetherroma1323@hotmail.com   
+
+i start today learn git 
+i will do all my best 
